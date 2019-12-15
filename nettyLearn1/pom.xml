@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<zookeeper.version>3.4.6</zookeeper.version>
+		<zookeeper.version>3.4.14</zookeeper.version>
 		<fastjson.version>1.2.58</fastjson.version>
 		<spring-context.version>4.3.7.RELEASE</spring-context.version>
 	</properties>
